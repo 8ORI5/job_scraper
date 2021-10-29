@@ -4,8 +4,6 @@
 
 A simple script that what job title you are searching for and the location. Each result is stored in its own .txt file. 
 
-This awesome [tutorial](https://www.youtube.com/watch?v=XVv6mJpFOb0) was used for the majority of the project. 
-
 ## How to Use
 
 ```bash
