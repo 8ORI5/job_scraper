@@ -1,10 +1,6 @@
 # job_scraper - Scrape 
 
-## This is a utility that scrapes indeed.com for jobs and exports the results into a csv.
-
-A simple script that what job title you are searching for and the location. Each result is stored in its own .txt file. 
-
-This awesome [tutorial](https://www.youtube.com/watch?v=XVv6mJpFOb0) was used for the majority of the project. 
+## A simple script that scrapes indeed.com for jobs by title and location. The result is stored in a csv file.
 
 ## How to Use
 

@@ -51,7 +51,7 @@ def save_to_csv(df):
     df.to_csv('jobs.csv', index=False)
 
 def main():
-    html = get_url(input('Job title: '), input('Location: '))
+    html = get_url(input('What kind of job are you looking for?: '), input('Where are you looking? : '))
     jobs = get_job_listings(html)
     jobs = list(get_job_info(jobs))
     save_to_csv(jobs)
